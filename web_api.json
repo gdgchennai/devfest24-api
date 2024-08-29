@@ -40,5 +40,83 @@
       "title": "DevFest 2023 was so much fun.",
       "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1720409887/devfest23/memories/IMG_0922.CR2_bhrqiu.webp"
     }
+  ],
+  
+  "communityPartners": [
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948768/devfest24/web/partners/YTL_logo_PNG_-_Roopesh_Salian_usdhjj.webp",
+      "link": "https://10x.respark.iitm.ac.in/ytl-page/",
+      "title": "YTL / IITMRespark"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948768/devfest24/web/partners/Techxconf_logo_-_Vijayabharathi_etoyzq.webp",
+      "link": "https://makerstribe.in/",
+      "title": "MakersTribe"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948766/devfest24/web/partners/MakersTribeLogo_-_Vijayabharathi_dohxlf.webp",
+      "link": "https://techxconf.com/",
+      "title": "TechXConf"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/AI_Practitioners_Chennai_logo_-_Vijayabharathi_cjshqz.webp",
+      "link": "https://www.meetup.com/innovationai-chennai/",
+      "title": "Innovation AI"
+    },
+    {
+      "image": "",
+      "link": "https://www.womenwhocode.com/",
+      "title": "Woment Who Code"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/rootecstakmedium_white-01_Cropped_-_Rootec_Stak-removebg-preview_shlzqq.webp",
+      "link": "https://www.rootecstak.com/",
+      "title": "Rootecstack"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948766/devfest24/web/partners/02_chennai_react_-_Nikhil_Kumaran_S-removebg-preview_khx8k3.webp",
+      "link": "https://www.meetup.com/chennai-reactjs-meetup-group/",
+      "title": "Chennai React"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948766/devfest24/web/partners/Clan_Logo_-_Dinesh_Manoharan-removebg-preview_wujfm1.webp",
+      "link": "https://theclan.community/",
+      "title": "The Clan"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/logo-2_-_Chennai_Design_pacp28.webp",
+      "link": "https://www.chennai.design/",
+      "title": "Chennai Design Community"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/Kug_Logo_Chennai_1_2_-_Trishiraj_dpyw8t.webp",
+      "link": "https://linktr.ee/kugchennai",
+      "title": "KUG Chennai"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/Tamil_Dash_removebg_preview_-_nammaflutter-removebg-preview_o5p108.webp",
+      "link": "https://www.meetup.com/nammaflutter/",
+      "title": "Flutter Chennai"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/CNC_-_Event_Thumbnail_-_Manikandan_Krishnamurthy-removebg-preview_vuxkeg.webp",
+      "link": "https://community.cncf.io/chennai/",
+      "title": "Cloud Native Chennai"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/AI_Practitioners_Chennai_logo_-_Vijayabharathi_cjshqz.webp",
+      "link": "https://www.meetup.com/aichennai/",
+      "title": "AI Practitioners Chennai"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948767/devfest24/web/partners/GDG_Cloud_Chennai_Logo_-_Jenisten_Xavier_y2qd0w.webp",
+      "link": "https://gdg.community.dev/gdg-cloud-chennai/",
+      "title": "GDG Cloud Chennai"
+    },
+    {
+      "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724951711/devfest24/web/partners/innovation_AI__2__-_Navaneethan_Gopal-removebg-preview_wqzn7u.webp",
+      "link": "https://www.meetup.com/chennaigeeks/",
+      "title": "Chennai Geeks"
+    }
   ]
 }
