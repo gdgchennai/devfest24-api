@@ -152,5 +152,186 @@
       "link": "https://makerstribe.in/upcoming-events/",
       "title": "Chennai Freelancers Club"
     }
-  ]
+  ],
+
+  "agendas": {
+    "mainHall" : [
+      {
+        "name": "Registration",
+        "session": "Let the show begin!",
+        "time": "8:00 AM - 9:30 AM"
+      },
+      {
+        "name": "Intro and Keynote by GDG Chennai / Devre",
+        "session": "Vanakkam to DevFest Chennai 2024!!",
+        "time": "9:30 AM - 10:15 AM"
+      },
+      {
+        "name": "Karthikeya",
+        "session": "Project IDX-101: Revolutionizing AI-Powered Software Development for the Future. ",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "10:30 AM - 11:30 AM"
+      },
+      {
+        "name": "Dhanush, Roha",
+        "session": "Panel - AI/DevTools",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "name": "Lunc",
+        "session": "We still got rest of the day waiting!",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "12:PM PM - 1:30 PM"
+      },
+      {
+        "name": "Priy",
+        "session":"Make your AI assistant 10x Smarter with Gemini Function calling",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "1:30 PM - 2:30 PM"
+      },
+      {
+        "name": "TB",
+        "session": "Panel-Design",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "2:30 PM - 3:30 PM"
+      },
+      {
+        "name": "Break",
+        "session": "Tea Coffee...tea coffee..tea coffee",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "3:30 PM - 4:00 PM"
+      },
+      {
+        "name": "Bhavani Rav",
+        "session": "Lightning Talk: Non tech skills you need to master",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "4:00 PM - 4:30 PM"
+      },
+      {
+        "name": "TB",
+        "session": "Panel - Security",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "4:30 PM - 5:30 PM"
+      },
+      {
+        "name": "Closing Not",
+        "session": "Almost end of the show 😞",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "5:45 PM - 6:15 PM"
+      },
+      {
+        "name": "Showdow",
+        "session": "The exciting part happens here 🌟",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "6:15 PM - 6:30 PM"
+      }
+    ],
+    "amphiHall": [
+      {
+        "name": "Registration",
+        "session": "Let the show begin!",
+        "time": "8:00 AM - 9:30 AM"
+      },
+      {
+        "name": "Intro and Keynote by GDG Chennai / Devrel - Main Hall",
+        "session": "Vanakkam to DevFest Chennai 2024!!",
+        "time": "9:30 AM - 10:15 AM"
+      },
+      {
+        "name": "Navaneeth",
+        "session": "Gemma Models: Architecture, Application Development, and Fine-Tuning Techniques",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "10:30 AM - 11:30 AM"
+      },
+      {
+        "name": "Subhrajyoti",
+        "session": "Compose Previews as a Power User",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "11:30 AM - 12:30 PM"
+      },
+      {
+        "name": "Lunch",
+        "session": "We still got rest of the day waiting!",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "12:PM PM - 1:30 PM"
+      },
+      {
+        "name": "Sanjeev",
+        "session": "Lightning Talk: MicroSaaS as a revenue making side project",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "1:30 PM - 2:30 PM"
+      },
+      {
+        "name": "Guru",
+        "session": "Lightning Talk: New age marketing ft linkedin, instagram and youtube",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "1:30 PM - 2:30 PM"
+      },
+      {
+        "name": "Heflin",
+        "session": "Lightning Talk: The Missing Part in Language Models: Understanding the Encoder",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "2:30 PM - 3:30 PM"
+      },
+      {
+        "name": "Chandnika",
+        "session": "Lightning Talk: Learn how you transform the Future of Education with Gemini and Responsible AI",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "2:30 PM - 3:30 PM"
+      },
+      {
+        "name": "Break",
+        "session": "Tea Coffee...tea coffee..tea coffee",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "3:30 PM - 4:00 PM"
+      },
+      {
+        "name": "Aishwarya",
+        "session": "Lightning Talk: Prompts to Pixels - Getting started with GenAI films",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "4:00 PM - 4:30 PM"
+      },
+      {
+        "name": "Raghav",
+        "session": "Multimodality across Indic Languages",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "4:30 PM - 5:30 PM"
+      },
+      {
+        "name": "Closing Note - Main Hall",
+        "session": "Almost end of the show 😞",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "5:45 PM - 6:15 PM"
+      },
+      {
+        "name": "Showdown - Main Hall",
+        "session": "The exciting part happens here 🌟",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "6:15 PM - 6:30 PM"
+      }
+    ]
+  }
 }
