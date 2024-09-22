@@ -162,13 +162,13 @@
         "time": "8:00 AM - 9:30 AM"
       },
       {
-        "name": "Intro and Keynote by GDG Chennai / Devre",
+        "name": "Intro and Keynote by GDG Chennai / Devrel",
         "session": "Vanakkam to DevFest Chennai 2024!!",
         "time": "9:30 AM - 10:15 AM"
       },
       {
         "name": "Karthikeya",
-        "session": "Project IDX-101: Revolutionizing AI-Powered Software Development for the Future. ",
+        "session": "Project IDX-101: Revolutionizing AI-Powered Software Development for the Future.",
         "imageUrl": "",
         "showImage": false,
         "time": "10:30 AM - 11:30 AM"
@@ -181,21 +181,21 @@
         "time": "11:30 AM - 12:30 PM"
       },
       {
-        "name": "Lunc",
+        "name": "Lunch",
         "session": "We still got rest of the day waiting!",
         "imageUrl": "",
         "showImage": false,
         "time": "12:PM PM - 1:30 PM"
       },
       {
-        "name": "Priy",
+        "name": "Priya",
         "session":"Make your AI assistant 10x Smarter with Gemini Function calling",
         "imageUrl": "",
         "showImage": false,
         "time": "1:30 PM - 2:30 PM"
       },
       {
-        "name": "TB",
+        "name": "TBD",
         "session": "Panel-Design",
         "imageUrl": "",
         "showImage": false,
@@ -216,21 +216,21 @@
         "time": "4:00 PM - 4:30 PM"
       },
       {
-        "name": "TB",
+        "name": "TBD",
         "session": "Panel - Security",
         "imageUrl": "",
         "showImage": false,
         "time": "4:30 PM - 5:30 PM"
       },
       {
-        "name": "Closing Not",
+        "name": "Closing Note",
         "session": "Almost end of the show 😞",
         "imageUrl": "",
         "showImage": false,
         "time": "5:45 PM - 6:15 PM"
       },
       {
-        "name": "Showdow",
+        "name": "Showdown",
         "session": "The exciting part happens here 🌟",
         "imageUrl": "",
         "showImage": false,
