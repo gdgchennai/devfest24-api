@@ -209,15 +209,22 @@
         "time": "3:30 PM - 4:00 PM"
       },
       {
-        "name": "Bhavani Ravi",
-        "session": "Lightning Talk: Non tech skills you need to master",
+        "name": "Aishwarya",
+        "session": "Lightning Talk: Prompts to Pixels - Getting Started with GenAI films",
         "imageUrl": "",
         "showImage": false,
         "time": "4:00 PM - 4:30 PM"
       },
       {
-        "name": "TBD",
-        "session": "Panel - Security",
+        "name": "Sanjeev",
+        "session": "Lightning Talk: MicroSaaS as a revenue making side project",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "4:30 PM - 5:30 PM"
+      },
+      {
+        "name": "Guru",
+        "session": "Lightning Talk: New age marketing ft linkedin, instagram and youtube",
         "imageUrl": "",
         "showImage": false,
         "time": "4:30 PM - 5:30 PM"
@@ -256,8 +263,8 @@
         "time": "10:30 AM - 11:30 AM"
       },
       {
-        "name": "Subhrajyoti",
-        "session": "Compose Previews as a Power User",
+        "name": "Anubhav",
+        "session": "Goroutines as Cognitive Threads: Replicating Human Behavior in Go",
         "imageUrl": "",
         "showImage": false,
         "time": "11:30 AM - 12:30 PM"
@@ -270,29 +277,15 @@
         "time": "12:PM PM - 1:30 PM"
       },
       {
-        "name": "Sanjeev",
-        "session": "Lightning Talk: MicroSaaS as a revenue making side project",
+        "name": "Raghav, Adarsh",
+        "session": "Multimodality across Indic Languages",
         "imageUrl": "",
         "showImage": false,
         "time": "1:30 PM - 2:30 PM"
       },
       {
-        "name": "Guru",
-        "session": "Lightning Talk: New age marketing ft linkedin, instagram and youtube",
-        "imageUrl": "",
-        "showImage": false,
-        "time": "1:30 PM - 2:30 PM"
-      },
-      {
-        "name": "Helfin",
-        "session": "Lightning Talk: Exploring Sentence-BERT: Efficient Solutions for Semantic Understanding",
-        "imageUrl": "",
-        "showImage": false,
-        "time": "2:30 PM - 3:30 PM"
-      },
-      {
-        "name": "Chandnika",
-        "session": "Lightning Talk: Learn how you transform the Future of Education with Gemini and Responsible AI",
+        "name": "Arumugaraja, Keerthivaasan",
+        "session": "App Aware Infra, Infra Aware App",
         "imageUrl": "",
         "showImage": false,
         "time": "2:30 PM - 3:30 PM"
@@ -305,15 +298,22 @@
         "time": "3:30 PM - 4:00 PM"
       },
       {
-        "name": "Aishwarya",
-        "session": "Lightning Talk: Prompts to Pixels - Getting started with GenAI films",
+        "name": "Bhavani",
+        "session": "Lightning Talk: Non tech skills you need to master",
         "imageUrl": "",
         "showImage": false,
         "time": "4:00 PM - 4:30 PM"
       },
       {
-        "name": "Raghav, Adarsh",
-        "session": "Multimodality across Indic Languages",
+        "name": "Helfin",
+        "session": "Lightning Talk: Exploring Sentence-BERT: Efficient Solutions for Semantic Understanding",
+        "imageUrl": "",
+        "showImage": false,
+        "time": "4:30 PM - 5:30 PM"
+      },
+      {
+        "name": "Chandnika",
+        "session": "Lightning Talk: Learn how you transform the Future of Education with Gemini and Responsible AI",
         "imageUrl": "",
         "showImage": false,
         "time": "4:30 PM - 5:30 PM"
@@ -345,18 +345,11 @@
         "time": "9:30 AM - 10:15 AM"
       },
       {
-        "name": "Karthikeyan",
-        "session": "Project IDX-101: Revolutionizing AI-Powered Software Development for the Future.",
+        "name": "Shangeeth",
+        "session": "Strategizing KMP Adoption: When to Go Multiplatform in Native Projects",
         "imageUrl": "",
         "showImage": false,
-        "time": "10:30 AM - 11:30 AM"
-      },
-      {
-        "name": "Trishiraj and Shangeeth",
-        "session": "Kotlin on Kokaine - A KMM Workshop",
-        "imageUrl": "",
-        "showImage": false,
-        "time": "11:30 AM - 12:30 PM"
+        "time": "11:30 AM - 12:30 AM"
       },
       {
         "name": "Lunch",
@@ -366,8 +359,8 @@
         "time": "12:PM PM - 1:30 PM"
       },
       {
-        "name": "Anubhav",
-        "session": "Goroutines as Cognitive Threads: Replicating Human Behavior in Go",
+        "name": "Subhrajyoti",
+        "session": "Compose Previews as a Power User",
         "imageUrl": "",
         "showImage": false,
         "time": "1:30 PM - 2:30 PM"
@@ -394,8 +387,8 @@
         "time": "4:00 PM - 4:30 PM"
       },
       {
-        "name": "Arumugaraja, Keerthivaasan",
-        "session": "App Aware Infra, Infra Aware App",
+        "name": "Trishiraj",
+        "session": "A Developer story without a college degree",
         "imageUrl": "",
         "showImage": false,
         "time": "4:30 PM - 5:30 PM"
@@ -474,13 +467,6 @@
         "imageUrl": "",
         "showImage": false,
         "time": "4:00 PM - 4:30 PM"
-      },
-      {
-        "name": "Vishnupriya",
-        "session": "Lightning Talk: How To Progress The Ladder As A Developer",
-        "imageUrl": "",
-        "showImage": false,
-        "time": "4:30 PM - 5:00 PM"
       },
       {
         "name": "Closing Note - Main Hall",
