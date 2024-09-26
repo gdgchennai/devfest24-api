@@ -44,9 +44,9 @@
 
   "announcements": [
     "Student Tickets are being sold in phases, Next batch to open soon",
-    "DevFest Pre-events are live: Upnext on September 21st",
+    "DevFest Pre-events are live: Upnext on September 28th",
     "Women Professionals exclusive Tickets are now Open",
-    "Speaker agenda to be updated soon",
+    "Speaker agenda are out now!",
     "We are still actively looking for sponsors!!"
   ],
   
@@ -98,13 +98,13 @@
     },
     {
       "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948768/devfest24/web/partners/Techxconf_logo_-_Vijayabharathi_etoyzq.webp",
-      "link": "https://makerstribe.in/",
-      "title": "MakersTribe"
+      "link": "https://techxconf.com/", 
+      "title": "TechXConf"
     },
     {
       "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724948766/devfest24/web/partners/MakersTribeLogo_-_Vijayabharathi_dohxlf.webp",
-      "link": "https://techxconf.com/",
-      "title": "TechXConf"
+      "link": "https://makerstribe.in/",
+      "title": "MakersTribe"
     },
     {
       "image": "https://res.cloudinary.com/ddnnw8qn5/image/upload/v1724951711/devfest24/web/partners/innovation_AI__2__-_Navaneethan_Gopal-removebg-preview_wqzn7u.webp",
