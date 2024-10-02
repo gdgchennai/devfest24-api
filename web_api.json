@@ -418,7 +418,7 @@
         "name": "Subhrajyoti",
         "session": "Compose Previews as a Power User",
         "imageUrls": [
-          "https://static.gdgchennai.in/speakers/t3/subhrajyoti.webp"
+          "https://static.gdgchennai.in/speakers/t3/subrajyothi.webp"
         ],
         "showImage": true,
         "showMultipleImage": false,
@@ -521,7 +521,9 @@
       {
         "name": "Swathi",
         "session": "Future with Technology - The not so seen perspective",
-        "imageUrls": "",
+        "imageUrls": ["
+          "https://static.gdgchennai.in/speakers/t4/swathi.webp"
+        ],
         "showImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
