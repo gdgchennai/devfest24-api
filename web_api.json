@@ -181,6 +181,7 @@
           "https://static.gdgchennai.in/speakers/t1/navaneeth.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "10:30 AM - 11:30 AM"
       },
       {
@@ -199,7 +200,6 @@
         "name": "Lunch",
         "session": "We still got rest of the day waiting!",
         "imageUrl": "",
-        "showImage": true,
         "time": "12:PM PM - 1:30 PM"
       },
       {
@@ -209,6 +209,7 @@
           "https://static.gdgchennai.in/speakers/t1/priya.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "1:30 PM - 2:30 PM"
       },
       {
@@ -238,6 +239,7 @@
           "https://static.gdgchennai.in/speakers/t1/aishwarya.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "4:00 PM - 4:30 PM"
       },
       {
@@ -247,6 +249,7 @@
           "https://static.gdgchennai.in/speakers/t1/sanjeev.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "4:30 PM - 5:00 PM"
       },
       {
@@ -256,6 +259,7 @@
           "https://static.gdgchennai.in/speakers/t1/guru.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "5:00 PM - 5:30 PM"
       },
       {
@@ -287,6 +291,7 @@
           "https://static.gdgchennai.in/speakers/t2/ashish.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "10:30 AM - 11:30 AM"
       },
       {
@@ -296,6 +301,7 @@
           "https://static.gdgchennai.in/speakers/t2/anubhav.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "11:30 AM - 12:30 PM"
       },
       {
@@ -337,6 +343,7 @@
           "https://static.gdgchennai.in/speakers/t2/bhavani.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "4:00 PM - 4:30 PM"
       },
       {
@@ -346,6 +353,7 @@
           "https://static.gdgchennai.in/speakers/t2/heflin.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "4:30 PM - 5:00 PM"
       },
       {
@@ -388,6 +396,7 @@
           "https://static.gdgchennai.in/speakers/t3/karthikeyan.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "10:30 AM - 11:30 AM"
       },
       {
@@ -397,6 +406,7 @@
           "https://static.gdgchennai.in/speakers/t3/somasundaram.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "11:30 AM - 12:30 AM"
       },
       {
@@ -411,6 +421,7 @@
           "https://static.gdgchennai.in/speakers/t3/subhrajyoti.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "1:30 PM - 2:30 PM"
       },
       {
@@ -420,6 +431,7 @@
           "https://static.gdgchennai.in/speakers/t3/manoj.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "2:30 PM - 3:30 PM"
       },
       {
@@ -434,6 +446,7 @@
           "https://static.gdgchennai.in/speakers/t3/adi.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "4:00 PM - 4:30 PM"
       },
       {
@@ -443,6 +456,7 @@
           "https://static.gdgchennai.in/speakers/t3/trishiraj.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "4:30 PM - 5:30 PM"
       },
       {
@@ -501,6 +515,7 @@
           "https://static.gdgchennai.in/speakers/t4/krishna.webp"
         ],
         "showImage": true,
+        "showMultipleImage": false,
         "time": "1:30 PM - 2:30 PM"
       },
       {
@@ -514,7 +529,6 @@
         "name": "Break",
         "session": "Tea Coffee...tea coffee..tea coffee",
         "imageUrl": "",
-        "showImage": true,
         "time": "3:30 PM - 4:00 PM"
       },
       {
