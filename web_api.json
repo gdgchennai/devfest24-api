@@ -192,6 +192,7 @@
           "https://static.gdgchennai.in/speakers/t1/p1/rohan.png"
         ],
         "showImage": true,
+        "showMultipleImage": true,
         "time": "11:30 AM - 12:30 PM"
       },
       {
@@ -222,6 +223,7 @@
           "https://static.gdgchennai.in/speakers/t1/p2/somasundaram.png"
         ],
         "showImage": true,
+        "showMultipleImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
       {
@@ -309,6 +311,7 @@
           "https://static.gdgchennai.in/speakers/t2/adarsh.webp"
         ],
         "showImage": true,
+        "showMultipleImage": true,
         "time": "1:30 PM - 2:30 PM"
       },
       {
@@ -318,6 +321,7 @@
           "https://static.gdgchennai.in/speakers/t2/arumugaraja.webp",
           "https://static.gdgchennai.in/speakers/t2/keerthivaasan.webp"
         ],
+        "showMultipleImage": true,
         "showImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
@@ -351,6 +355,7 @@
           "https://static.gdgchennai.in/speakers/t2/chandnika.webp",
           "https://static.gdgchennai.in/speakers/t2/praveen.webp"
         ],
+        "showMultipleImage": true,
         "showImage": true,
         "time": "5:00 PM - 5:30 PM"
       },
@@ -469,6 +474,7 @@
           "https://static.gdgchennai.in/speakers/t4/gnanasuriyan.webp",
           "https://static.gdgchennai.in/speakers/t4/anush.webp"
         ],
+        "showMultipleImage": true,
         "showImage": true,
         "time": "10:30 AM - 11:30 AM"
       },
@@ -480,6 +486,7 @@
           "https://static.gdgchennai.in/speakers/t4/shubham.webp"
         ],
         "showImage": true,
+        "showMultipleImage": true,
         "time": "11:30 AM - 12:30 PM"
       },
       {
@@ -518,6 +525,7 @@
           "https://static.gdgchennai.in/speakers/t4/kevin.webp"
         ],
         "showImage": true,
+        "showMultipleImage": true,
         "time": "4:00 PM - 4:30 PM"
       },
       {
