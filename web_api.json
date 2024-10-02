@@ -43,11 +43,9 @@
   ],
 
   "announcements": [
-    "Student tickets: SOLD OUT!",
-    "DevFest Pre-events are live: Upnext on September 28th",
-    "Women Professionals exclusive Tickets are now Open",
-    "Speakers lineup: Revealed!",
-    "We are still actively looking for sponsors!!"
+    "All tickets SOLD OUT",
+    "Final Agenda is Live",
+    "See you all soon"
   ],
   
   "communityPartners": [
@@ -312,7 +310,7 @@
         "time": "4:30 PM - 5:30 PM"
       },
       {
-        "name": "Chandnika",
+        "name": "Chandnika, Praveen",
         "session": "Lightning Talk: Learn how you transform the Future of Education with Gemini and Responsible AI",
         "imageUrl": "",
         "showImage": false,
@@ -469,7 +467,7 @@
         "time": "3:30 PM - 4:00 PM"
       },
       {
-        "name": "Veena",
+        "name": "Veena, Kevin",
         "session": "Lightning Talk: From Screen to Mind: How Business transforms User Experience into Portals of possibility",
         "imageUrl": "",
         "showImage": false,
