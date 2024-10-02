@@ -177,78 +177,95 @@
       {
         "name": "Navaneeth",
         "session": "Gemma Models: Architecture, Application Development, and Fine-Tuning Techniques",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrls": [
+          "https://static.gdgchennai.in/speakers/t1/navaneeth.webp"
+        ],
+        "showImage": true,
         "time": "10:30 AM - 11:30 AM"
       },
       {
         "name": "Aishwarya, Dhanush, Rohan",
         "session": "Panel - AI and Open Source",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrls": [
+          "https://static.gdgchennai.in/speakers/t1/p1/aishwarya.png",
+          "https://static.gdgchennai.in/speakers/t1/p1/dhanush.png",
+          "https://static.gdgchennai.in/speakers/t1/p1/rohan.png"
+        ],
+        "showImage": true,
+        "showMultipleImage": true,
         "time": "11:30 AM - 12:30 PM"
       },
       {
         "name": "Lunch",
         "session": "We still got rest of the day waiting!",
         "imageUrl": "",
-        "showImage": false,
+        "showImage": true,
         "time": "12:PM PM - 1:30 PM"
       },
       {
         "name": "Priya",
         "session":"Make your AI assistant 10x Smarter with Gemini Function calling",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t1/priya.webp"
+        ],
+        "showImage": true,
         "time": "1:30 PM - 2:30 PM"
       },
       {
         "name": "Rashmi, Bhaarath, Kanchan, Lawanya, Naseer, Somasundaram",
         "session": "Panel - Design",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrls": [
+          "https://static.gdgchennai.in/speakers/t1/p2/raashmi.png",
+          "https://static.gdgchennai.in/speakers/t1/p2/bhaarath.png",
+          "https://static.gdgchennai.in/speakers/t1/p2/kanchan.png",
+          "https://static.gdgchennai.in/speakers/t1/p2/lawanya.png",
+          "https://static.gdgchennai.in/speakers/t1/p2/naseer.png",
+          "https://static.gdgchennai.in/speakers/t1/p2/somasundaram.png"
+        ],
+        "showImage": true,
+        "showMultipleImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
       {
         "name": "Break",
         "session": "Tea Coffee...tea coffee..tea coffee",
-        "imageUrl": "",
-        "showImage": false,
         "time": "3:30 PM - 4:00 PM"
       },
       {
         "name": "Aishwarya",
         "session": "Lightning Talk: Prompts to Pixels - Getting Started with GenAI films",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrls": [
+          "https://static.gdgchennai.in/speakers/t1/aishwarya.webp"
+        ],
+        "showImage": true,
         "time": "4:00 PM - 4:30 PM"
       },
       {
         "name": "Sanjeev",
         "session": "Lightning Talk: MicroSaaS as a revenue making side project",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t1/sanjeev.webp"
+        ],
+        "showImage": true,
         "time": "4:30 PM - 5:00 PM"
       },
       {
         "name": "Guru",
         "session": "Lightning Talk: New age marketing ft linkedin, instagram and youtube",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t1/guru.webp"
+        ],
+        "showImage": true,
         "time": "5:00 PM - 5:30 PM"
       },
       {
         "name": "Closing Note",
         "session": "Almost end of the show 😞",
-        "imageUrl": "",
-        "showImage": false,
         "time": "5:30 PM - 6:15 PM"
       },
       {
         "name": "Showdown",
         "session": "The exciting part happens here 🌟",
-        "imageUrl": "",
-        "showImage": false,
         "time": "6:15 PM - 6:30 PM"
       }
     ],
@@ -266,78 +283,90 @@
       {
         "name": "Ashish",
         "session": "Shipping Gen AI Products with Web by Leveraging Project FUGU",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/ashish.webp"
+        ],
+        "showImage": true,
         "time": "10:30 AM - 11:30 AM"
       },
       {
         "name": "Anubhav",
         "session": "Goroutines as Cognitive Threads: Replicating Human Behavior in Go",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/anubhav.webp"
+        ],
+        "showImage": true,
         "time": "11:30 AM - 12:30 PM"
       },
       {
         "name": "Lunch",
         "session": "We still got rest of the day waiting!",
-        "imageUrl": "",
-        "showImage": false,
         "time": "12:PM PM - 1:30 PM"
       },
       {
         "name": "Raghav, Adarsh",
         "session": "Multimodality across Indic Languages",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/raghav.webp",
+          "https://static.gdgchennai.in/speakers/t2/adarsh.webp"
+        ],
+        "showImage": true,
+        "showMultipleImage": true,
         "time": "1:30 PM - 2:30 PM"
       },
       {
         "name": "Arumugaraja, Keerthivaasan",
         "session": "App Aware Infra, Infra Aware App",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/arumugaraja.webp",
+          "https://static.gdgchennai.in/speakers/t2/keerthivaasan.webp"
+        ],
+        "showMultipleImage": true,
+        "showImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
       {
         "name": "Break",
         "session": "Tea Coffee...tea coffee..tea coffee",
-        "imageUrl": "",
-        "showImage": false,
         "time": "3:30 PM - 4:00 PM"
       },
       {
         "name": "Bhavani",
         "session": "Lightning Talk: Non tech skills you need to master",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/bhavani.webp"
+        ],
+        "showImage": true,
         "time": "4:00 PM - 4:30 PM"
       },
       {
-        "name": "Helfin",
+        "name": "Heflin",
         "session": "Lightning Talk: Exploring Sentence-BERT: Efficient Solutions for Semantic Understanding",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/heflin.webp"
+        ],
+        "showImage": true,
         "time": "4:30 PM - 5:00 PM"
       },
       {
         "name": "Chandnika, Praveen",
         "session": "Lightning Talk: Learn how you transform the Future of Education with Gemini and Responsible AI",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t2/chandnika.webp",
+          "https://static.gdgchennai.in/speakers/t2/praveen.webp"
+        ],
+        "showMultipleImage": true,
+        "showImage": true,
         "time": "5:00 PM - 5:30 PM"
       },
       {
         "name": "Closing Note - Main Hall",
         "session": "Almost end of the show 😞",
-        "imageUrl": "",
-        "showImage": false,
         "time": "5:30 PM - 6:15 PM"
       },
       {
         "name": "Showdown - Main Hall",
         "session": "The exciting part happens here 🌟",
-        "imageUrl": "",
-        "showImage": false,
         "time": "6:15 PM - 6:30 PM"
       }
     ],
@@ -355,71 +384,75 @@
       {
         "name": "Karthikeyan",
         "session": "Project IDX-101: Revolutionizing AI-Powered Software Development for the Future",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t3/karthikeyan.webp"
+        ],
+        "showImage": true,
         "time": "10:30 AM - 11:30 AM"
       },
       {
         "name": "Somasundaram Mahesh",
         "session": "Kotlin Multiplatform: Not as Scary as it Sounds (Live Proof!)",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t3/somasundaram.webp"
+        ],
+        "showImage": true,
         "time": "11:30 AM - 12:30 AM"
       },
       {
         "name": "Lunch",
         "session": "We still got rest of the day waiting!",
-        "imageUrl": "",
-        "showImage": false,
         "time": "12:PM PM - 1:30 PM"
       },
       {
         "name": "Subhrajyoti",
         "session": "Compose Previews as a Power User",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t3/subhrajyoti.webp"
+        ],
+        "showImage": true,
         "time": "1:30 PM - 2:30 PM"
       },
       {
         "name": "Manoj",
         "session": "Google's Privacy Sandbox 101: What It Means for Developers",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t3/manoj.webp"
+        ],
+        "showImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
       {
         "name": "Break",
         "session": "Tea Coffee...tea coffee..tea coffee",
-        "imageUrl": "",
-        "showImage": false,
         "time": "3:30 PM - 4:00 PM"
       },
       {
         "name": "Adi",
         "session": "Lightning Talk: Building Products For Developer Experience - A First Principle Approach",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t3/adi.webp"
+        ],
+        "showImage": true,
         "time": "4:00 PM - 4:30 PM"
       },
       {
         "name": "Trishiraj",
         "session": "A Developer story without a college degree",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t3/trishiraj.webp"
+        ],
+        "showImage": true,
         "time": "4:30 PM - 5:30 PM"
       },
       {
         "name": "Closing Note - Main Hall",
         "session": "Almost end of the show 😞",
-        "imageUrl": "",
-        "showImage": false,
         "time": "5:30 PM - 6:15 PM"
       },
       {
         "name": "Showdown - Main Hall",
         "session": "The exciting part happens here 🌟",
-        "imageUrl": "",
-        "showImage": false,
         "time": "6:15 PM - 6:30 PM"
       }
     ],
@@ -437,64 +470,72 @@
       {
         "name": "Gnanasuriyan, Anush",
         "session": "Rewind and Restore: Time-Traveling Through Transactions in SaaS",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t4/gnanasuriyan.webp",
+          "https://static.gdgchennai.in/speakers/t4/anush.webp"
+        ],
+        "showMultipleImage": true,
+        "showImage": true,
         "time": "10:30 AM - 11:30 AM"
       },
       {
         "name": "Shibly, Shubham",
         "session": "Secure Local Vault: A Git based Secret Manager",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t4/shibly.webp",
+          "https://static.gdgchennai.in/speakers/t4/shubham.webp"
+        ],
+        "showImage": true,
+        "showMultipleImage": true,
         "time": "11:30 AM - 12:30 PM"
       },
       {
         "name": "Lunch",
         "session": "We still got rest of the day waiting!",
-        "imageUrl": "",
-        "showImage": false,
         "time": "12:PM PM - 1:30 PM"
       },
       {
         "name": "Krishna",
         "session": "Real time computer vision for manufacturing quality",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t4/krishna.webp"
+        ],
+        "showImage": true,
         "time": "1:30 PM - 2:30 PM"
       },
       {
         "name": "Swathi",
         "session": "Future with Technology - The not so seen perspective",
         "imageUrl": "",
-        "showImage": false,
+        "showImage": true,
         "time": "2:30 PM - 3:30 PM"
       },
       {
         "name": "Break",
         "session": "Tea Coffee...tea coffee..tea coffee",
         "imageUrl": "",
-        "showImage": false,
+        "showImage": true,
         "time": "3:30 PM - 4:00 PM"
       },
       {
         "name": "Veena, Kevin",
         "session": "Lightning Talk: From Screen to Mind: How Business transforms User Experience into Portals of possibility",
-        "imageUrl": "",
-        "showImage": false,
+        "imageUrl": [
+          "https://static.gdgchennai.in/speakers/t4/veena.webp",
+          "https://static.gdgchennai.in/speakers/t4/kevin.webp"
+        ],
+        "showImage": true,
+        "showMultipleImage": true,
         "time": "4:00 PM - 4:30 PM"
       },
       {
         "name": "Closing Note - Main Hall",
         "session": "Almost end of the show 😞",
-        "imageUrl": "",
-        "showImage": false,
         "time": "5:30 PM - 6:15 PM"
       },
       {
         "name": "Showdown - Main Hall",
         "session": "The exciting part happens here 🌟",
-        "imageUrl": "",
-        "showImage": false,
         "time": "6:15 PM - 6:30 PM"
       }
     ]
